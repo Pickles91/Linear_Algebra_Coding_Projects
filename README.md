@@ -1,5 +1,5 @@
 # Linear_Algebra_Coding_Projects
-Linear_Algebra_Coding_Projects
+Linear_Algebra_Coding_Projects:
 
 1: Project 1: Using Colab to solve systems of equations with code.
 https://github.com/Pickles91/Linear_Algebra_Coding_Projects/blob/main/Copy_of_Math_242_solve_systems_using_computation_and_rref.ipynb
