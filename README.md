@@ -7,4 +7,19 @@ https://github.com/Pickles91/Linear_Algebra_Coding_Projects/blob/main/Copy_of_Ma
 2: Project 2: Predicted the number of skiers on ski slopes using Markov Chains and Transition:
 https://github.com/Pickles91/Linear_Algebra_Coding_Projects/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
 
+3: Secret Number: Decoding a secret polynomial from data points using linear algebra.
+https://github.com/Pickles91/Linear_Algebra_Coding_Projects/blob/main/Copy_of_Math_242_secret_number.ipynb
+
+4: Sports Teams Rankings: Using game data to rank the strength of teams using linear algebra.
+
+5: Gram-Schmidt Process using vectors. Students create this from scratch.
+
+6: Gram-Schmidt Process with Function Spaces:
+
+Polynomial Function Spaces: 
+
+Periodic Function Spaces: 
+
+7: The Impact of Singular Values (e.g. eigenvalues for non-square matrices):
+
 This repository contains projects for use in Math 242 Linear Algebra. It is used with Google Colaboratory, and is intended to help students learn how to do linear algebra using code.
